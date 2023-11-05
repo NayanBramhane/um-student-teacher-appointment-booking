@@ -46,7 +46,7 @@ const TeacherDashboard = () => {
           </li>
           <li>
             From: Student 2
-            Message: I'm having trouble with my science project.
+            Message: I&apos;m having trouble with my science project.
           </li>
         </ul>
       </div>
